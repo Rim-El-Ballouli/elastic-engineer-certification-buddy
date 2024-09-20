@@ -14,6 +14,7 @@ This repository is intended to be your elastic certification buddy that will hel
 The first question you may be asking is how long will I need to be ready to pass the exam. I had this very same question when I decided to take this path. The amount of time needed is dependent on two things
 - your initial knowledge and practical experience with elasticsearch API
 - the time you can dedicate in day to practice
+
 You may need as little as 2 weeks such as <cite>[Surbhi Mahajan, 2020](https://www.linkedin.com/pulse/elastic-certified-engineer-exam-my-experience-how-i-surbhi-mahajan/)</cite> or 1.5 month as <cite>[Deepak Dubey, 2020](https://www.linkedin.com/pulse/how-did-i-pass-elastic-certified-engineer-exam-tips/
 )</cite>. Personally, I spent 2 condensed dedicated weeks where my full focus was on elasticsearch. 
 
@@ -23,5 +24,3 @@ While I spent 2 weeks and passed the exam from the first attempt I would have pr
 
 </details>
 
-[1]: [http://www.quotedb.com/quotes/2112](https://www.linkedin.com/pulse/elastic-certified-engineer-exam-my-experience-how-i-surbhi-mahajan/)
-[2]: https://www.linkedin.com/pulse/how-did-i-pass-elastic-certified-engineer-exam-tips/
