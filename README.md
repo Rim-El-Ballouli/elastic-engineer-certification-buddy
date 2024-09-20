@@ -1,11 +1,11 @@
-# $\color{teal}{\textsf{Introduction}}$
+# $\color{magenta}{\textsf{Introduction}}$
 This repository is intended to be your elastic certification buddy that will help you devise a plan and prepare for your elastic engineer exam. It is meant to be a one-stop solution to all your needs. It includes a
 -  condensation of advise from 8 blogs discussing the experience of elastic engineer certification [1](),[2](),[3](),[4](),[5](),[6](),[7](),[8]()
 - Study Plan 
 - Questions
 - Practice exams
 - Resources including courses 
-# $\color{teal}{\textsf{Preparation duration}}$
+# $\color{magenta}{\textsf{Preparation duration}}$
 > [!NOTE]  
 > Allocate 3 **dedicated** weeks if you are a beginner with limited elasticsearch experience and 2 weeks or less if you are daily user and experienced with elasticsearch API.
 > 
