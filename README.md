@@ -6,7 +6,7 @@ This repository is intended to be your elastic certification buddy that will hel
 - Practice exams
 - Resources including courses 
 # $\color{magenta}{\textsf{Preparation duration}}$
-> [!NOTE]  
+> [!SUMMARY]  
 > Allocate 3 **dedicated** weeks if you are a beginner with limited elasticsearch experience and 2 weeks or less if you are daily user and experienced with elasticsearch API.
 > 
 <details><summary>expand for more info</summary>
